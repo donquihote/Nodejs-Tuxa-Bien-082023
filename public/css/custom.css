@@ -55,3 +55,7 @@ tr.my-read-only {
 .custom-select-sm {
     font-size: 100%;
 }
+
+.login-box {
+    margin: 0 auto;
+}
